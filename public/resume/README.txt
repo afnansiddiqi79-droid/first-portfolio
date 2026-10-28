@@ -1,0 +1,1 @@
+When your resume is ready, add resume.pdf to public/ and update the resume button in src/components/Hero.tsx to link to /resume.pdf with the download attribute.

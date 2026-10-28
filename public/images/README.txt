@@ -1,0 +1,1 @@
+Add your professional photo here as afnan.jpg. The current design uses a designed initials placeholder until you add the photo.
